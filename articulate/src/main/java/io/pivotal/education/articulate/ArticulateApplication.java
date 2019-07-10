@@ -11,7 +11,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.client.SimpleClientHttpRequestFactory;
 import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
-
+//sjrdfdkgdkg
 import javax.net.ssl.*;
 import java.io.IOException;
 import java.net.HttpURLConnection;
